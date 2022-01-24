@@ -1,0 +1,24 @@
+.need{
+  background:#f4623a;
+  padding: 100px 0;
+}
+
+.need .container{
+  text-align:center;
+  width: 50%;
+}
+.need h2{
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+.need h2::after{
+  background-color:#fff;
+  bottom: -28%;
+}
+.need p{
+  color: #fff;
+}
+.need .btn{
+  background-color: #fff;
+  color: #f4623a;
+}

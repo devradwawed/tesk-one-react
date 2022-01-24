@@ -1,0 +1,13 @@
+.box{
+  width: 23%;
+  margin: 2%;
+  text-align: center;
+}
+.box i{
+  color:#f4623a;
+  font-size:32px;
+  margin-bottom: 20px;
+}
+.box p{
+  color: rgb(83, 81, 81);
+}

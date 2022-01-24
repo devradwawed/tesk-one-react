@@ -1,0 +1,9 @@
+.service{
+  padding:100px 0;
+}
+
+.service h2{
+  color: #333;
+  text-align: center;
+  font-size: 2rem;
+}

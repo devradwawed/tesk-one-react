@@ -1,0 +1,26 @@
+.nav{
+  padding: 30px 0;
+  position:fixed;
+  top:0;
+  width: 100%;
+}
+.nav .row{
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+}
+.nav .row  span{
+  color:#ddd;
+  font-weight:bold;
+  font-size:17px;
+}
+.nav .row ul{
+  display: flex;
+}
+.nav .row ul li{
+  margin-right: 16px;
+}
+.nav .row ul li a{
+  color:#ddd;
+  font-size:17px;
+}
